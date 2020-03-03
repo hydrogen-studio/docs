@@ -26,6 +26,6 @@ We code on weekends so all updates will be in the weekends
 
 [click on me](https://hydrogen-bot.github.io/linkshortener/#sUycDhqay)
 
-© 2019-2020 Absolute-Development, All Rights Reserved  
+© 2019 Absolute-Development, All Rights Reserved  
  
 
