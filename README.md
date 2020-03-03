@@ -4,6 +4,10 @@ description: >-
   and have fun? Hydrogen is the best for you and your server!
 ---
 
+<head>
+  <meta name="keywords" content="Hydrogenbot, Hydrogen Discord">
+</head>
+
 # Intro
 
 Looking for a bot that could chat with 90000+ other people? Or just want to chill and have fun? Whatever you choose, Hydrogen is the best for you and your server!
